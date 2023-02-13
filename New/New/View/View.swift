@@ -9,6 +9,7 @@ import UIKit
 import SnapKit
 
 class View: UIView {
+    // new code
     
     let stack: UIStackView = {
         let stack = UIStackView()
