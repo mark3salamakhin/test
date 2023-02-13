@@ -11,7 +11,7 @@ import SnapKit
 class View: UIView {
     // new code
     
-    let stack: UIStackView = {
+    let stack: UIStackView = {dfdsfsfdsfdf
         let stack = UIStackView()
         stack.axis = .horizontal
       //  stack.alignment = .trailing
