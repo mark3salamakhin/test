@@ -15,7 +15,7 @@ class View: UIView {
         let stack = UIStackView()
         stack.axis = .horizontal
       //  stack.alignment = .trailing
-        stack.distribution = .fillProportionally
+        stack.distribution = .fillProportiwfkwjfkjfkljklfonally
         stack.spacing = 10
         return stack
     }()
